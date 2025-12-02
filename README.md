@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there ! 👋
+
+I'm Onyide, a digital scientist based in the United Kingdom. 
+
+
 
 <!--
 **Onyide1/Onyide1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
