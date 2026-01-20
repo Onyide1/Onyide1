@@ -1,6 +1,6 @@
 ## Hello 🍀
 
-I'm Onyide, a digital scientist based in the United Kingdom. 
+I'm Zoe, a digital scientist based in the United Kingdom. 
 
  Materials | Innovative technology | Machine learning | Artificial intelligence |  Data analytics
 
